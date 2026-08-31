@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "2026.08.31.8",
-  "publishedAt": "2026-08-31T03:35:23.346Z",
-  "dataPath": "releases/2026.08.31.8.json.enc",
-  "sha256": "97bf2d21e33cb008f8b3c77f151176e994ba3f5d5c645f3e95564ed0804760e7",
+  "version": "2026.08.31.9",
+  "publishedAt": "2026-08-31T03:36:17.061Z",
+  "dataPath": "releases/2026.08.31.9.json.enc",
+  "sha256": "795391e3ddc76908309708d8291ac68424212679749ebaf81a2511dc651a1c00",
   "minimumViewerVersion": "1.0.0",
-  "termCount": 2
+  "termCount": 227
 }
